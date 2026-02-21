@@ -1,0 +1,3 @@
+[submodule "confman"]
+	path = confman
+	url = https://github.com/Yue-bin/confman.git
